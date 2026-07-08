@@ -147,9 +147,8 @@ Thanks to **CodSoft** for providing this internship opportunity and practical Ma
 
 Machine Learning Enthusiast | MCA Student
 
-GitHub: https://github.com/your-username
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/anusuya-sahoo
 
 ---
 
